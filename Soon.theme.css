@@ -39,7 +39,7 @@ Do NOT modify this file if you dont know what youre doing.
  * Replaces Emojis
  * Delete this @import if you want the regular discord emojis (Docs coming soon (maybe))
 */
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);
+
 
 :root {
   /* Banners (modifiable!) */
@@ -52,7 +52,7 @@ Do NOT modify this file if you dont know what youre doing.
   --codeblock-font: Fira Code;
 
   /* Avatar Image Shape (modifiable!) (change all of the numbers to modify shape) */
-    --rs-avatar-shape: 10%; /* 50% for round - 10% for default */
+    --rs-avatar-shape: 50%; /* 50% for round - 10% for default */
     --avatar-radius: 10px; /* default: 10px */
     --reply-avatar-radius:5px; /* default: 5px */
 
